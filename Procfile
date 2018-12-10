@@ -1,1 +1,1 @@
-web: python rob.py
+worker: python rob.py
